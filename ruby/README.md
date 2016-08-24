@@ -11,16 +11,20 @@ Write a score keeping application. It must take a formated string which lists in
 
 Here is an example input string:
 
+```
 Heather: +4
 Chen: +10
 Helga: +22
 Heather: -7
 Chen: +2
 Balthazar: -1
+```
 
 Here is the output that string should generate:
 
+```
 Balthazar: -1
 Chen: +12
 Heather: -3
 Helga: +22
+```
