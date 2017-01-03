@@ -29,3 +29,10 @@ Chen: +12
 Heather: -3
 Helga: +22
 ```
+## Starter Templates
+
+Starter templates are provided for 
+
+* [javascript in jest](javascript)
+* [php in phpunit](php)
+* [ruby in rspec](ruby)
